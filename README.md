@@ -21,6 +21,8 @@ Atualmente faço graduação em Análise e Desenvolvimento de Sistemas na [Facul
 
 Já participei em campeonatos de robótica como a [First Lego League](https://www.firstlegoleague.org/) e a [OBR - Olimpíada Brasileira de Robótica](http://www.obr.org.br/)
 
+***Sempre grato, mas nunca conformado, sigo em constante evolução!***
+
 ### Coisas que mais gosto de aprender
 
 * Programar :computer:
@@ -32,5 +34,3 @@ Já participei em campeonatos de robótica como a [First Lego League](https://ww
 * Exercícios físicos / Saúde :weight_lifting_man:
 
 * Jogar games :video_game:
-
-## Veja alguns dos meus projetos abaixo :arrow_heading_down:
