@@ -11,7 +11,7 @@
 
 ## Sobre mim
 
-Adoro aprender coisas novas, pensar fora da caixa, ter uma visão de empreendedor, colaborar/ajudar as pessoas
+Adoro aprender coisas novas, pensar fora da caixa, ter uma visão empreendedora, colaborar/ajudar as pessoas
 
 Sou Técnico de Informática pelo [Cotil - Colégio Técnico de Limeira](https://www.cotil.unicamp.br/)
 
@@ -21,7 +21,7 @@ Atualmente faço graduação em Análise e Desenvolvimento de Sistemas na [Facul
 
 Já participei em campeonatos de robótica como a [First Lego League](https://www.firstlegoleague.org/) e a [OBR - Olimpíada Brasileira de Robótica](http://www.obr.org.br/)
 
-### Coisas que gosto de aprender
+### Coisas que mais gosto de aprender
 
 * Programar :computer:
 
@@ -31,12 +31,6 @@ Já participei em campeonatos de robótica como a [First Lego League](https://ww
 
 * Exercícios físicos / Saúde :weight_lifting_man:
 
-### O que você faz para se divertir?
-
 * Jogar games :video_game:
 
-* Assistir filmes :clapper:
-
-* Passear :national_park:
-
-* Escutar música :musical_note:
+## Veja alguns dos meus projetos abaixo :arrow_heading_down:
