@@ -7,7 +7,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=whire&link=https://www.linkedin.com/in/duhborba/)](https://www.linkedin.com/in/duhborba/)
 
-### Olá! :wave: Bem vindo ao meu perfil
+<p align="center"><img src="https://github.com/DuhBorba/DuhBorba/blob/master/programming.gif"></p>
 
 ## Sobre mim
 
