@@ -3,9 +3,9 @@
 **DuhBorba/DuhBorba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=whire&link=https://www.linkedin.com/in/duhborba/)](https://www.linkedin.com/in/duhborba/)
-
-
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/duhborba/)](https://www.linkedin.com/in/duhborba/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:eduardoborba3@gmail.com)](mailto:eduardoborba3@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-b73a81?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/duhborba/)](https://www.instagram.com/duhborba/)
 
 <p align="center"><img src="https://github.com/DuhBorba/DuhBorba/blob/master/programming.gif"></p>
 
