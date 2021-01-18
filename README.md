@@ -17,7 +17,7 @@ Sou Técnico de Informática pelo [Cotil - Colégio Técnico de Limeira](https:/
 
 Fiz 7 meses de estágio na [UNICAMP - Universidade Estadual de Campinas](https://www.unicamp.br/), em AI Informática
 
-Atualmente faço graduação em Análise e Desenvolvimento de Sistemas na [Faculdade Einstein de Limeira](http://www.einsteinlimeira.com.br/)
+Atualmente trabalho na [KABUM](https://www.kabum.com.br/) como Assistente Web Designer e faço graduação em Análise e Desenvolvimento de Sistemas na [Faculdade Einstein de Limeira](http://www.einsteinlimeira.com.br/)
 
 Já participei em campeonatos de robótica como a [First Lego League](https://www.firstlegoleague.org/) e a [OBR - Olimpíada Brasileira de Robótica](http://www.obr.org.br/)
 
