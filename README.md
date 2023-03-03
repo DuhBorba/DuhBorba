@@ -11,13 +11,11 @@
 
 ## Sobre mim
 
-Adoro aprender coisas novas, pensar fora da caixa, ter uma visão empreendedora, colaborar/ajudar as pessoas
+Como Front-end Developer na [CRM Services](https://crmservices.com.br/), coloco em prática, através de códigos, o design do site e demais interfaces da empresa. Integro o time de Marketing da companhia e atuo sempre com um olhar detalhista e inovador para levar as melhores práticas do mercado para o nosso dia a dia.
 
-Sou Técnico de Informática pelo [Cotil - Colégio Técnico de Limeira](https://www.cotil.unicamp.br/)
+Possuo mais de 3 anos de experiência com web designer e acumulo ao longo da minha jornada profissional vivência em e-commerce de tecnologia e suporte de informática na [UNICAMP - Universidade Estadual de Campinas](https://www.unicamp.br/).
 
-Fiz 7 meses de estágio na [UNICAMP - Universidade Estadual de Campinas](https://www.unicamp.br/), em AI Informática
-
-Trabalho há um ano no [KaBuM!](https://www.kabum.com.br/), assumo a função de Web Designer Junior e faço graduação em Análise e Desenvolvimento de Sistemas na [Faculdade Einstein de Limeira](http://www.einsteinlimeira.com.br/)
+Sou técnico em Informática pelo [Cotil - Colégio Técnico de Limeira](https://www.cotil.unicamp.br/) (2018-2019) e formado em Análise e Desenvolvimento de Sistemas pela [FIEL (Faculdades Integradas Einstein de Limeira)](https://www.einsteinlimeira.com.br/) (2020-2022).
 
 Já participei em campeonatos de robótica como a [First Lego League](https://www.firstlegoleague.org/) e a [OBR - Olimpíada Brasileira de Robótica](http://www.obr.org.br/)
 
