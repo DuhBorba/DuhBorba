@@ -11,15 +11,15 @@
 
 ## Sobre mim
 
-Como Front-end Developer na [CRM Services](https://crmservices.com.br/), coloco em prática, através de códigos, o design do site e demais interfaces da empresa. Integro o time de Marketing da companhia e atuo sempre com um olhar detalhista e inovador para levar as melhores práticas do mercado para o nosso dia a dia.
+Como desenvolvedor Front-end transformo códigos em design do site e interfaces, atuando sempre com uma abordagem detalhista e inovadora, buscando proporcionar uma experiência e interação completas para o usuário.
 
-Possuo mais de 3 anos de experiência com web designer e acumulo ao longo da minha jornada profissional vivência em e-commerce de tecnologia e suporte de informática na [UNICAMP - Universidade Estadual de Campinas](https://www.unicamp.br/).
+Acumulo ao longo da minha jornada profissional mais de 3 anos de experiência como desenvolvedor front-end e como web designer, atuando em empresa de consultoria TOTVS e e-commerce de tecnologia, além disso atuei também no suporte de informática na UNICAMP (Universidade Estadual de Campinas).
 
-Sou técnico em Informática pelo [Cotil - Colégio Técnico de Limeira](https://www.cotil.unicamp.br/) (2018-2019) e formado em Análise e Desenvolvimento de Sistemas pela [FIEL (Faculdades Integradas Einstein de Limeira)](https://www.einsteinlimeira.com.br/) (2020-2022).
+Sou técnico em Informática pelo COTIL (2018-2019) e formado em Análise e Desenvolvimento de Sistemas pela FIEL (Faculdades Integradas Einstein de Limeira) (2020-2022).
 
-Já participei em campeonatos de robótica como a [First Lego League](https://www.firstlegoleague.org/) e a [OBR - Olimpíada Brasileira de Robótica](http://www.obr.org.br/)
+Como profissional dedicado, almejo uma oportunidade singular para integrar uma equipe, onde posso aplicar minhas habilidades e, ao mesmo tempo, aprimorar-me continuamente na minha área de atuação.
 
-***Sempre grato, mas nunca conformado, sigo em constante evolução!***
+***Sempre grato, mas nunca conformado!***
 
 ### Coisas que mais gosto de aprender
 
