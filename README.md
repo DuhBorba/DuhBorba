@@ -21,7 +21,7 @@ Como profissional dedicado, almejo uma oportunidade singular para integrar uma e
 
 ***Sempre grato, mas nunca conformado!***
 
-### Coisas que mais gosto de aprender
+### Coisas que gosto
 
 * Programar :computer:
 
@@ -32,3 +32,5 @@ Como profissional dedicado, almejo uma oportunidade singular para integrar uma e
 * Exercícios físicos / Saúde :weight_lifting_man:
 
 * Jogar games :video_game:
+
+* Carros :car:
