@@ -13,7 +13,7 @@
 
 Como desenvolvedor Front-end transformo códigos em design do site e interfaces, atuando sempre com uma abordagem detalhista e inovadora, buscando proporcionar uma experiência e interação completas para o usuário.
 
-Acumulo ao longo da minha jornada profissional mais de 3 anos de experiência como desenvolvedor front-end e como web designer, atuando em empresa de consultoria TOTVS e e-commerce de tecnologia, além disso atuei também no suporte de informática na UNICAMP (Universidade Estadual de Campinas).
+Acumulo ao longo da minha jornada profissional mais de 5 anos de experiência como desenvolvedor front-end e como web designer, atuando em empresa de gateway de pagamento, consultoria TOTVS e e-commerce de tecnologia, além disso atuei também no suporte de informática na UNICAMP (Universidade Estadual de Campinas).
 
 Sou técnico em Informática pelo COTIL (2018-2019) e formado em Análise e Desenvolvimento de Sistemas pela FIEL (Faculdades Integradas Einstein de Limeira) (2020-2022).
 
